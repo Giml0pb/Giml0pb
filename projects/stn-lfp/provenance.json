@@ -1,0 +1,38 @@
+{
+  "source_analysis_commit": "9a2a9d73b6c2ceb221bd4f7383c4da5511e7ad5e",
+  "manuscript_revision": "final revised manuscript",
+  "manuscript_sha256": "45a5c941044fa0cd774c6e7a03b0b681c4ced7b13d960fdbc2414c4bd8299852",
+  "cohort": {
+    "participants": 28,
+    "segments": 64,
+    "off_segments": 32,
+    "on_segments": 32
+  },
+  "scope": "Aggregate results only; no clinical recordings, predictions or participant identifiers.",
+  "tables": {
+    "representation_results.csv": {
+      "source_table": "manuscript/evidence/representation_selection/summary.csv",
+      "source_sha256": "f39a86595135c1a285a9ac8b82b4dd02d63153d8ec7cb16bf5deb8eed2e24051",
+      "published_sha256": "f39a86595135c1a285a9ac8b82b4dd02d63153d8ec7cb16bf5deb8eed2e24051",
+      "rows": 10
+    },
+    "temporal_results.csv": {
+      "source_table": "manuscript/evidence/temporal_scale_duration/summary.csv",
+      "source_sha256": "03be5477bb064316e5e46e6cab4196dff72c764f4541241559b3e87c40e1d1ee",
+      "published_sha256": "03be5477bb064316e5e46e6cab4196dff72c764f4541241559b3e87c40e1d1ee",
+      "rows": 36
+    },
+    "block_results.csv": {
+      "source_table": "manuscript/evidence/temporal_scale_duration/block_summary.csv",
+      "source_sha256": "d1f545ce3fb3caf49cc6caf15a2856ac24e3cf71acd709840b900a3045a7e131",
+      "published_sha256": "d1f545ce3fb3caf49cc6caf15a2856ac24e3cf71acd709840b900a3045a7e131",
+      "rows": 4
+    },
+    "block_diagnostics.csv": {
+      "source_table": "manuscript/evidence/temporal_scale_duration/block_diagnostic_summary.csv",
+      "source_sha256": "106f9ed9da0020bf1e80328d2dc25e7744d7ea8d1d9a0ed8680512573c265b87",
+      "published_sha256": "106f9ed9da0020bf1e80328d2dc25e7744d7ea8d1d9a0ed8680512573c265b87",
+      "rows": 4
+    }
+  }
+}
