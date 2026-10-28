@@ -8,13 +8,9 @@ Python · PyTorch · scikit-learn · NumPy/SciPy · ONNX · Linux · Docker · A
 
 ## Selected work
 
-**[Gait State Estimation Lab](https://github.com/Giml0pb/Gait_Project)**  
-Python · NumPy · SciPy · Docker · GitHub Actions  
-Fourier observation models, extended Kalman filtering and Hilbert baselines. Reproducible demo, missing-sensor tests and uncertainty diagnostics.
+**[Gait State Estimation Lab](https://github.com/Giml0pb/Gait_Project)** — Fourier observation models, extended Kalman filtering and Hilbert baselines. Reproducible demo, missing-sensor tests, uncertainty diagnostics, CI and Docker.
 
-**[STN-LFP medication-state decoding](https://github.com/Giml0pb/Giml0pb/blob/main/projects/stn-lfp.md)**  
-Python · NumPy · SciPy · scikit-learn  
-Master's thesis: spectral-temporal features, participant-held-out evaluation and nested model selection. Aggregate results and methodology.
+**[STN-LFP medication-state decoding](https://github.com/Giml0pb/Giml0pb/blob/main/projects/stn-lfp.md)** — Master's thesis: spectral-temporal features, participant-held-out evaluation and nested model selection. Aggregate results and methodology.
 
 ## Open source
 
