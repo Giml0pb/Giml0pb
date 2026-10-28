@@ -1,5 +1,3 @@
-# Borja Giménez
-
 I build machine-learning and signal-processing systems for biomedical applications, with experience in data engineering, Python services, deployment and operational monitoring.
 
 Focus: biomedical ML, scientific computing, Edge AI and embedded software.
